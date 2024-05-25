@@ -1,4 +1,4 @@
-# recipe-execution-benchmark
+# A Benchmark for Recipe Understanding in Autonomous Agents
 
 ## Contact Information
 

@@ -1,5 +1,8 @@
 # A Benchmark for Recipe Understanding in Autonomous Agents
 
+This repository contains my Master thesis which was submitted in partial fulfilment of the requirements for the degree of Master of Science In Engineering: Computer Science.  
+The initial idea behind the benchmark has been developed in the context of the European project MUHAI, which aims to introduce Meaning and Understanding in Human-centric Artificial Intelligence.
+
 ## Contact Information
 
 | Name                      | Email address                                                       |
@@ -21,3 +24,7 @@ To perform model evaluation, we developed a symbolic simulator that measures per
 - **Recipe execution time**: Measures efficiency.
 
 Whether the developed benchmark will achieve community-wide adoption and lead to significant advances in natural language understanding can only be determined in the future. Nevertheless, its transparent design makes it useful for developing recipe understanding approaches and could even serve as inspiration for new benchmarks.
+
+## Website
+
+More information about the recipe execution benchmark, accompanied by the developed open source software tools, can be found at [https://ehai.ai.vub.ac.be/recipe-execution-benchmark/](url)

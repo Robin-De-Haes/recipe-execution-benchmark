@@ -27,4 +27,4 @@ Whether the developed benchmark will achieve community-wide adoption and lead to
 
 ## Website
 
-More information about the recipe execution benchmark, accompanied by the developed software tools, can be found at [https://ehai.ai.vub.ac.be/recipe-execution-benchmark/](url)
+More information about the recipe execution benchmark, accompanied by the developed open source software tools, can be found at [https://ehai.ai.vub.ac.be/recipe-execution-benchmark/](url)
